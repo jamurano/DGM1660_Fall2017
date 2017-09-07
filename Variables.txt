@@ -1,0 +1,12 @@
+// Variables are similar to backpacks, where we are constantly taking things out of it and putting them back in. Sometimes we even change what we put in there depending on the need. Variables a tools used in coding that allow us to change certian things or add things later.
+Such as: public int health = 100;
+         public float water = .5f;
+         public string fruit = "Apple";
+
+// Access modifier is a tool that allows your coding to be either public or private.
+         private int health = 100;
+         public int health = 100;
+
+// Another variable that you could make an example for is homes. People can easily change their furniture around or throw things out. 
+// Another example Would be maybe a balloon. Where you are able to put air in and take air out and even fill it with other things such as water, slime, or confetti.
+// One last example would be a phone. You can add and delete apps and contacts and modify many things to personalize your phone like coding. With coding you can personalize it to make games or what ever your needs are.
